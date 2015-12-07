@@ -1,0 +1,20 @@
+D:\Users\Rusty\AppData\Local\Temporary Projects\Spammer\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Rusty\AppData\Local\Temporary Projects\Spammer\obj\Debug\Spammer.Form1.resources
+D:\Users\Rusty\AppData\Local\Temporary Projects\Spammer\obj\Debug\Spammer.Resources.resources
+D:\Users\Rusty\AppData\Local\Temporary Projects\Spammer\obj\Debug\Spammer.vbproj.GenerateResource.Cache
+D:\Users\Rusty\AppData\Local\Temporary Projects\Spammer\bin\Debug\Spammer.exe
+D:\Users\Rusty\AppData\Local\Temporary Projects\Spammer\bin\Debug\Spammer.pdb
+D:\Users\Rusty\AppData\Local\Temporary Projects\Spammer\bin\Debug\Spammer.xml
+D:\Users\Rusty\AppData\Local\Temporary Projects\Spammer\obj\Debug\Spammer.exe
+D:\Users\Rusty\AppData\Local\Temporary Projects\Spammer\obj\Debug\Spammer.xml
+D:\Users\Rusty\AppData\Local\Temporary Projects\Spammer\obj\Debug\Spammer.pdb
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Spammer\Spammer\obj\Debug\Spammer.exe
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Spammer\Spammer\obj\Debug\Spammer.xml
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Spammer\Spammer\obj\Debug\Spammer.pdb
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Spammer\Spammer\bin\Debug\Spammer.exe
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Spammer\Spammer\bin\Debug\Spammer.pdb
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Spammer\Spammer\bin\Debug\Spammer.xml
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Spammer\Spammer\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Spammer\Spammer\obj\Debug\Spammer.Form1.resources
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Spammer\Spammer\obj\Debug\Spammer.Resources.resources
+D:\Users\Rusty\Documents\Visual Studio 2008\Projects\Spammer\Spammer\obj\Debug\Spammer.vbproj.GenerateResource.Cache
